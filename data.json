@@ -1,0 +1,24 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "manager": "gabriel",
+            "members": ["gulruk", "suvir", "paul"]
+        },
+        {
+            "id": 2,
+            "manager": "gulruk",
+            "members": ["nilesh"]
+        },
+        {
+            "id": 3,
+            "manager": "suvir",
+            "members": ["vamsi", "sachin"]
+        },
+        {
+            "id": 4,
+            "manager": "paul",
+            "members": ["josh", "veerraju"]
+        }
+    ]
+}
